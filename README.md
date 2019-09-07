@@ -1,5 +1,5 @@
 Collection of good materials to study web **that I read myself**
 # Grouped by technology
 
-### HTTP/HTTPS protocol
+### HTTPS
 https://howhttps.works/ — also about SSL/TLS
